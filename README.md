@@ -7,7 +7,7 @@ I think i lack studying javascript because i used react.js too much.
 i am trying to reinforce the javascript basic with one lecture every day.
 
 # Content
-## Day 1. Java Script Drum Kit
+## Day 1. JavaScript Drum Kit
 ### Date
 2021.03.16
 ### Learned
