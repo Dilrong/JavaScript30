@@ -1,10 +1,19 @@
-# 개요
-## 배경
-라이브러리나 프레임워크에 익숙하여 자바스크립의 기본적인 부분을 보강할 필요성을 느낌
-## 목적
-[JavaScript30](https://javascript30.com/)의 1일 1개 튜토리얼을 통해 자바스크립트 기본기를 보강한다.
+# OverView
+## Background
+I think i lack studying javascript because i used react.js too much.
+## Goal
+>[JavaScript30](https://javascript30.com/)
 
-# 내용
+i am trying to reinforce the javascript basic with one lecture every day.
+
+# Content
 ## Day 1. Java Script Drum Kit
-- **일자** : 2021.03.16
-- **배운점**:
+### Date
+2021.03.16
+### Learned
+### KeyCode Event 
+I learned querySelector, this, key Event.
+
+querySelector... It way easy in React, but it seems a bit annoying in JavaScript.
+
+but Thanks to this, i learned more about convenience of react and I think I learned about DOM processing.
